@@ -1,8 +1,6 @@
-<!DOCTYPE html>
+<!doctype HTML>
 <html>
-  <head>
-    <h1>"Hello World!"</h1>
-  </head>
-  <body>
-  </body>
+<head>
+    <h1>"Hiello World!"</h1>
+</head>
 </html>
