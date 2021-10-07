@@ -1,0 +1,23 @@
+{
+  "name": "lab01-helloworld",
+  "version": "1.0.0",
+  "description": "Hello world thing",
+  "main": "tutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshanley/lab01-helloworld.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sshanley/lab01-helloworld/issues"
+  },
+  "homepage": "https://github.com/sshanley/lab01-helloworld#readme"
+  "engines": "14.17.6"
+}
