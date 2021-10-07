@@ -18,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/sshanley/lab01-helloworld/issues"
   },
-  "homepage": "https://github.com/sshanley/lab01-helloworld#readme"
+  "homepage": "https://github.com/sshanley/lab01-helloworld#README",
+
   "engines":{
-  "node": "14.17.6"
+      "node": "14.17.6"
   }
 }
