@@ -19,5 +19,7 @@
     "url": "https://github.com/sshanley/lab01-helloworld/issues"
   },
   "homepage": "https://github.com/sshanley/lab01-helloworld#readme"
-  "engines": "14.17.6"
+  "engines":{
+  "node": "14.17.6"
+  }
 }
