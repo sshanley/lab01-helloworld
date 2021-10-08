@@ -2,7 +2,7 @@
   "name": "lab01-helloworld",
   "version": "1.0.0",
   "description": "Hello world thing",
-  "main": "tut.html",
+  "main": "tutorial.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
